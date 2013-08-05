@@ -3,7 +3,7 @@ description:      write things down
 logo:             site-logo.png
 disqus_shortname: benhouseio
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://benhouse.io
+url:              http://benhouse.io
 
 # Owner/author information
 owner:
