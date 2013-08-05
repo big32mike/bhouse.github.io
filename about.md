@@ -1,26 +1,24 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: About
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: benhouse-coastline.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+I'm a twenty-nine year old guy living in San Francisco, CA. I grew up on the
+east coast in Herndon, VA outside of DC, and moved out to SF in 2011.
 
-## So Simple Theme is all about:
+I work at [Zendesk](http://zendesk.com) as a DevOps Engineer on the
+[@ZendeskOps](http://twitter.com/ZendeskOps) team keeping the service available
+and speedy. It's a really fun job, solving lots of technical problems to help
+provide the best Software as a Service we can. Prior to Zendesk I was working at
+VeriSign running nameservers for TLDs, which was also way cool.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
+The rest of the time I'm into exploring the city on my bike or scooter, rock
+climbing, hanging out with my english bulldog
+[Winston](http://facebook.com/winston.house.5), reading technical books, and
+occasional TV binges.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+I have a brother in Austin, TX, a sister in Raleigh, NC, and my parents live in
+a relaxing mountain home in Wintergreen, VA

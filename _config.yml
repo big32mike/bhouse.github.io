@@ -1,26 +1,24 @@
-title:            Site Title
-description:      Describe your website here.
+title:            benhouse.io
+description:      write things down
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: benhouseio
 #Comment out url when working locally to resolve base urls correctly
-url:              http://benhouse.io
+#url:              http://benhouse.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Ben House
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          ben@benhouse.io
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        bahouse
+  facebook:       ben.house
+  github:         bhouse
+  linkedin:       houseben
+  instagram:      bahouse
+  flickr:         99861609@N04
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    http://plus.google.com/103977503581562515282
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -33,16 +31,11 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Posts
+    url: /posts
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
