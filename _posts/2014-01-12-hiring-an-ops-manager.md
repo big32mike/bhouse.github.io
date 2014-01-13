@@ -82,10 +82,11 @@ Priorities would around fostering team communication, individual career
 development, keeping everyone's work challenging and engaging without being
 overloaded.
 
-As we began seeing candidates the evaluation became easier, though the content
-and flow of each interview was unique. Rarely did I make it through the full
-list of questions I had prepared, but the best candidates addressed everything
-I was looking for without directly being asked!
+As candidate evaluation progressed, it became easier to analyze strengths and
+weaknesses of each individual by comparison to others, and hone what we were
+searching for. Rarely did I make it through the full list of questions I had
+prepared, but the best candidates addressed everything I was looking for without
+directly being asked!
 
 Below is the list I eventually settled on, and I think it will be useful as I
 interview with future bosses:
