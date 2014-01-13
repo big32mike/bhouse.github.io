@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiring an Ops Manager
-modified: 2014-01-12
+modified: 2014-01-13
 category: posts
 image:
   feature: benhouse-coastline.jpg
@@ -17,14 +17,14 @@ others are working on day to day.
 
 As we grow, and more is asked of us as a team, I'm nervous about how scaling as
 a team could go wrong. We'll naturally become efficient at maintaining things
-we're experienced with, alotting more time for working in areas which will be
-less efficient. The infrastructure expands, and so does the maintenance,
-requiring us to add more team members to keep up the rate of progress.
-Eventually we'll reach a point where the amount of people and projects erodes
-our level of peer awareness, fracturing into pockets of knowledge, and
+we're experienced with, filling up the free time by working on projects to
+further develop the infrastructure. The expanding environment increases
+maintenance, requiring us to add more team members to keep up the rate of
+progress. Eventually we'll reach a point where the amount of people and projects
+erodes our level of peer awareness, fracturing into pockets of knowledge, and
 ultimately less effective feedback for each other. Feedback I highly covet.
 
-This is my fear at least.
+This is my fear, at least.
 
 For these reasons I was excited when we decided to hire a manager for our
 Operations team, who's focus it will be to directly manage a handful of
@@ -82,7 +82,7 @@ Priorities would around fostering team communication, individual career
 development, keeping everyone's work challenging and engaging without being
 overloaded.
 
-As we began seeeing candidates the evaluation became easier, though the content
+As we began seeing candidates the evaluation became easier, though the content
 and flow of each interview was unique. Rarely did I make it through the full
 list of questions I had prepared, but the best candidates addressed everything
 I was looking for without directly being asked!
@@ -91,14 +91,14 @@ Below is the list I eventually settled on, and I think it will be useful as I
 interview with future bosses:
 
 * What have you been told about the team and the opportunity?
-* What will first 90 days involve?
+* What will your first 90 days involve?
 * What values do you look for in your team?
 * How do you plan to recruit and hire for those values?
-* Describe your an effective experience you had leading an incident response.
+* Describe an effective experience you had leading an incident response.
 * How do you promote your team's career development?
 * When have you observed individual or team burnout, and how did you respond?
 * How have you managed to keep remote employees involved?
-* How do your team members decribe you?
+* How do your team members describe you?
 
 I'm really thrilled with the person we ended up hiring, and excited to see how
 our team responds!
