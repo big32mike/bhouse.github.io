@@ -78,7 +78,7 @@ previous experiences.
 
 I also really liked the job description we published for the position. It was
 clear the objectives were to spend time focusing on the team and individuals.
-Priorities would around fostering team communication, individual career
+Priorities would center around fostering team communication, individual career
 development, keeping everyone's work challenging and engaging without being
 overloaded.
 
